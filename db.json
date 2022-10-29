@@ -1,6 +1,4 @@
 {
-  "success": true,
-  "status" : 200,
   "storeList" : [
     {
       "storeId" : 1,
