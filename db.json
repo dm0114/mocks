@@ -14,13 +14,14 @@
       "storeAddress" : "1 주소",
       "likeCount" : 1
     },
-        {
+    {
       "storeId" : 4,
       "storeName" : "2 화원",
       "storeImg" : "2 주소",
       "storeAddress" : "2 주소",
       "likeCount" : 2
-    },    {
+    },    
+    {
       "storeId" : 5,
       "storeName" : "3 화원",
       "storeImg" : "3 주소",
@@ -45,7 +46,7 @@
       "likeCount": 1,
       "star": 1
     },
-        {
+    {
       "themeId" : 2,
       "themeName" : "2비밀의 가족",
       "storeName": "2비밀의 화원",
